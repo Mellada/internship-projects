@@ -126,7 +126,6 @@ Write
 
 ## ผลลัพธ์
 
-โครงการนี้จัดทำผลลัพธ์ในรูปแบบ
 
 - Ground Subsidence Map
 - Hexagonal Grid Dataset
@@ -138,27 +137,3 @@ Write
 - VIF Analysis
 
 ---
-
-## โครงสร้างโฟลเดอร์
-
-```
-Project
-│
-├── Data
-│   ├── Sentinel1
-│   ├── LST
-│   ├── Nightlight
-│   ├── Population
-│   └── Boundary
-│
-├── SNAP
-│
-├── Notebook
-│
-├── Output
-│   ├── Figures
-│   ├── Raster
-│   ├── Hexagon
-│   └── Statistics
-│
-└── README.md
