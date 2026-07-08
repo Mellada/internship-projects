@@ -84,8 +84,6 @@ Write
 คำนวณค่าเฉลี่ยของตัวแปรแต่ละชนิด
 
 - Subsidence
-- LST 2024
-- LST 2025
 - Nighttime Light
 - Population Density
 
@@ -129,9 +127,7 @@ Write
 
 - Ground Subsidence Map
 - Hexagonal Grid Dataset
-- LST Maps
 - Nighttime Light Map
-- Population Density Map
 - Correlation Analysis
 - OLS Regression
 - VIF Analysis
